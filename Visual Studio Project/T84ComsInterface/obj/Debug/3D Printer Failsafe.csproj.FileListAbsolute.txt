@@ -1,0 +1,14 @@
+C:\Users\Collie\Documents\Visual Studio 2017\Projects\T84ComsInterface\T84ComsInterface\obj\Debug\3D Printer Failsafe.csprojResolveAssemblyReference.cache
+C:\Users\Collie\Documents\Visual Studio 2017\Projects\T84ComsInterface\T84ComsInterface\obj\Debug\T84ComsInterface.Properties.Resources.resources
+C:\Users\Collie\Documents\Visual Studio 2017\Projects\T84ComsInterface\T84ComsInterface\obj\Debug\3D Printer Failsafe.csproj.GenerateResource.Cache
+C:\Users\Collie\Documents\Visual Studio 2017\Projects\T84ComsInterface\T84ComsInterface\obj\Debug\T84ComsInterface.exe
+C:\Users\Collie\Documents\Visual Studio 2017\Projects\T84ComsInterface\T84ComsInterface\obj\Debug\T84ComsInterface.pdb
+C:\Users\Collie\Documents\Visual Studio 2017\Projects\T84ComsInterface\T84ComsInterface\bin\Debug\T84ComsInterface.exe.config
+C:\Users\Collie\Documents\Visual Studio 2017\Projects\T84ComsInterface\T84ComsInterface\bin\Debug\T84ComsInterface.exe
+C:\Users\Collie\Documents\Visual Studio 2017\Projects\T84ComsInterface\T84ComsInterface\bin\Debug\T84ComsInterface.pdb
+C:\Users\Collie\Documents\Visual Studio 2017\Projects\T84ComsInterface\T84ComsInterface\bin\Debug\INIFileParser.dll
+C:\Users\Collie\Documents\Visual Studio 2017\Projects\T84ComsInterface\T84ComsInterface\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Collie\Documents\Visual Studio 2017\Projects\T84ComsInterface\T84ComsInterface\bin\Debug\INIFileParser.xml
+C:\Users\Collie\Documents\Visual Studio 2017\Projects\T84ComsInterface\T84ComsInterface\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Collie\Documents\Visual Studio 2017\Projects\T84ComsInterface\T84ComsInterface\obj\Debug\T84ComsInterface.AboutBox1.resources
+C:\Users\Collie\Documents\Visual Studio 2017\Projects\T84ComsInterface\T84ComsInterface\obj\Debug\T84ComsInterface.Form1.resources
